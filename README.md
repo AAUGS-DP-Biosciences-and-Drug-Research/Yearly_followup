@@ -47,6 +47,10 @@
 
 - The PhD researcher reflects on the discussion, writes brief minutes to share with all participants (at the latest within one week following the meeting), and makes final updates to the ISP for submission to the graduate school.
 
+## Additional ressources
+
+- 📊 [PhD ECTS Tracker Workbook (Excel)](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/Curriculum/raw/main/PhD_ECTS_Tracker_Categories_v4.xlsx?download=1)
+- 📝 [Skills and Competencies (DOCX)](https://github.com/AAUGS-DP-Biosciences-and-Drug-Research/Yearly_followup/raw/main/Skills%20and%20competencies_v250108.docx?download=1)
 
 ## Quick Checklists
 
