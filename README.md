@@ -50,16 +50,19 @@
 
 ## Quick Checklists
 
-**Startup (first 3 months)**
+###**Startup (first 3 months)**
+
 - [ ] Update ISP based on the application documents 
 - [ ] Recruit two TFC members (internal and/or external) with supervisor(s)
 
-**Before each TFC meeting**
+###**Before each TFC meeting**
+
 - [ ] Update ISP 
 - [ ] Share ISP with TFC and supervisor(s) 
 - [ ] Circulate agenda and materials
 
-**During each TFC meeting (≤ 90 min)**
+###**During each TFC meeting (≤ 90 min)**
+
 - [ ] Graduation requirements & target date 
 - [ ] Progress (courses, research) 
 - [ ] Publication plan 
