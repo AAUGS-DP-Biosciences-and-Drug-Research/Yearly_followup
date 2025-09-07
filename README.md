@@ -44,8 +44,9 @@
 4) Final 10 minutes: supervisor(s) are dismissed; the PhD researcher comes back and continues confidentially with the committee to raise any supervision-related issues or concerns.
 
 ### After each meeting
+
 - The PhD researcher reflects on the discussion, writes brief minutes to share with all participants (at the latest within one week following the meeting), and makes final updates to the ISP for submission to the graduate school.
----
+
 
 ## Quick Checklists
 
